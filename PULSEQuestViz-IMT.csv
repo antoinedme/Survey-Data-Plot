@@ -1,4 +1,4 @@
-age_group,bmi_score,framingham,petal_width,species,species_id
+age_group,bmi_score,framingham,score,species,species_id
 45,16.7,8,0.2,setosa,1
 29,18.8,8,0.2,setosa,1
 26,22.4,11,0.2,setosa,1
