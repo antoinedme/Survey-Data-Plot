@@ -1,0 +1,172 @@
+USERID,AGE,ADDRESS,UPDATE,GENDER,SCORING
+0,49,4 all_e Romain,3/2/19,M,0.0097564
+1,51,2 bis rue Yohan,3/2/19,M,0.0053562
+2,25,5 ter avenue Paul,3/2/19,M,0.0067432
+3,52,4 rue Vincennes,3/2/19,M,0.004272067
+4,40,2 rue du Plessis,3/2/19,M,0.002765467
+5,72,18 avenue Clamart,1/1/19,F,0.001258867
+6,49,7 all_e France,2/1/19,F,-0.000247733
+7,26,19 Faubourg Pierret,3/1/19,M,-0.001754333
+8,25,4 all_e Romain,4/1/19,F,-0.003260933
+9,52,2 bis rue Yohan,1/1/19,F,0.0097564
+10,45,4 all_e Romain,2/1/19,M,0.0053562
+11,72,2 bis rue Yohan,5/1/19,F,0.0067432
+12,59,5 ter avenue Paul,5/1/19,F,0.004272067
+13,62,5 rue Vincennes,6/1/19,F,0.002765467
+14,65,3 rue du Plessis,7/1/19,M,0.001258867
+15,45,19 avenue Clamart,8/1/19,F,0.0097564
+16,72,8 all_e France,9/1/19,M,0.0097564
+17,75,20 Faubourg Pierret,5/1/19,M,0.0097564
+18,23,5 all_e Romain,5/1/19,M,0.0097564
+19,81,3 bis rue Yohan,5/1/19,M,0.0053562
+20,84,5 all_e Romain,5/1/19,F,0.0067432
+21,87,3 bis rue Yohan,5/1/19,F,0.004272067
+22,44,6 ter avenue Paul,3/2/19,M,0.002765467
+23,93,6 rue Vincennes,3/2/19,F,0.001258867
+24,96,4 rue du Plessis,3/2/19,F,0.0097564
+25,34,20 avenue Clamart,3/2/19,M,0.0097564
+26,56,9 all_e France,4/2/19,F,0.0097564
+27,24,4 all_e Romain,5/2/19,F,0.007484274
+28,41,2 bis rue Yohan,6/2/19,F,0.007638622
+29,56,5 ter avenue Paul,7/2/19,M,0.007792969
+30,80,4 rue Vincennes,8/2/19,M,0.007947317
+31,52,2 rue du Plessis,9/2/19,F,0.008101665
+32,40,18 avenue Clamart,10/2/19,F,0.008256012
+33,72,7 all_e France,3/2/19,M,0.00841036
+34,49,19 Faubourg Pierret,3/2/19,F,0.008564707
+35,26,19 avenue Clamart,3/2/19,F,0.008719055
+36,18,8 all_e France,10/2/19,M,0.008873403
+37,52,20 Faubourg Pierret,3/2/19,M,0.00902775
+38,40,5 all_e Romain,3/2/19,M,0.009182098
+39,72,3 bis rue Yohan,2/1/19,M,0.009336446
+40,62,5 all_e Romain,5/1/19,F,0.009490793
+41,65,3 bis rue Yohan,5/1/19,F,0.009645141
+42,45,6 ter avenue Paul,6/1/19,M,0.009799488
+43,49,6 rue Vincennes,7/1/19,F,0.009953836
+44,26,4 rue du Plessis,8/1/19,F,0.010108184
+45,40,20 avenue Clamart,9/1/19,M,0.010262531
+46,72,9 all_e France,5/1/19,F,0.010416879
+47,40,4 all_e Romain,5/1/19,M,0.010571226
+48,72,2 bis rue Yohan,5/1/19,M,0.010725574
+49,18,5 ter avenue Paul,3/2/19,M,0.010879922
+50,52,4 rue Vincennes,3/2/19,M,0.011034269
+51,19,2 rue du Plessis,3/2/19,F,0.011188617
+52,43,18 avenue Clamart,3/2/19,F,0.011342965
+53,83,7 all_e France,1/1/19,M,0.011497312
+54,21,19 Faubourg Pierret,2/1/19,F,0.01165166
+55,43,20 avenue Clamart,3/1/19,F,0.011806007
+56,11,9 all_e France,4/1/19,M,0.011960355
+57,28,21 Faubourg Pierret,1/1/19,F,0.012114703
+58,43,6 all_e Romain,2/1/19,M,0.01226905
+59,67,4 bis rue Yohan,5/1/19,F,0.012423398
+60,39,6 all_e Romain,5/1/19,F,0.012577746
+61,27,4 bis rue Yohan,6/1/19,M,0.012732093
+62,59,7 ter avenue Paul,7/1/19,F,0.012886441
+63,36,7 rue Vincennes,8/1/19,F,0.013040788
+64,13,5 rue du Plessis,9/1/19,M,0.013195136
+65,5,20 avenue Clamart,5/1/19,M,0.013349484
+66,39,9 all_e France,5/1/19,M,0.013503831
+67,27,21 Faubourg Pierret,5/1/19,M,0.013658179
+68,59,6 all_e Romain,3/2/19,F,0.013812526
+69,49,4 bis rue Yohan,3/2/19,F,0.013966874
+70,52,6 all_e Romain,3/2/19,M,0.014121222
+71,32,4 bis rue Yohan,3/2/19,F,0.014275569
+72,36,7 ter avenue Paul,3/2/19,F,0.014429917
+73,13,7 rue Vincennes,1/1/19,M,0.014584265
+74,27,5 rue du Plessis,2/1/19,F,0.014738612
+75,59,21 avenue Clamart,3/1/19,F,0.01489296
+76,27,20 avenue Clamart,4/1/19,M,0.015047307
+77,59,9 all_e France,1/1/19,F,0.015201655
+78,5,21 Faubourg Pierret,2/1/19,M,0.015356003
+79,62,6 all_e Romain,5/1/19,M,0.01551035
+80,52,4 bis rue Yohan,5/1/19,M,0.015664698
+81,55,6 all_e Romain,6/1/19,M,0.015819046
+82,35,4 bis rue Yohan,7/1/19,M,0.015973393
+83,39,7 ter avenue Paul,8/1/19,F,0.016127741
+84,16,7 rue Vincennes,9/1/19,F,0.016282088
+85,30,5 rue du Plessis,5/1/19,M,0.016436436
+86,62,21 avenue Clamart,5/1/19,F,0.016590784
+87,30,10 all_e France,5/1/19,M,0.016745131
+88,62,5 all_e Romain,5/1/19,F,0.016899479
+89,8,3 bis rue Yohan,5/1/19,M,0.017053826
+90,65,6 ter avenue Paul,3/2/19,F,0.017208174
+91,55,5 rue Vincennes,3/2/19,F,0.017362522
+92,58,3 rue du Plessis,3/2/19,M,0.017516869
+93,38,19 avenue Clamart,3/2/19,F,0.017671217
+94,42,8 all_e France,4/2/19,F,0.017825565
+95,19,20 avenue Clamart,5/2/19,M,0.017979912
+96,33,9 all_e France,6/2/19,F,0.01813426
+97,65,21 Faubourg Pierret,7/2/19,M,0.018288607
+98,33,6 all_e Romain,8/2/19,M,0.018442955
+99,65,4 bis rue Yohan,9/2/19,M,0.018597303
+100,11,6 all_e Romain,10/2/19,M,0.01875165
+101,68,4 bis rue Yohan,3/2/19,M,0.018905998
+102,58,7 ter avenue Paul,3/2/19,F,0.019060346
+103,61,7 rue Vincennes,3/2/19,F,0.019214693
+104,41,5 rue du Plessis,10/2/19,M,0.019369041
+105,45,21 avenue Clamart,3/2/19,F,0.019523388
+106,22,10 all_e France,3/2/19,M,0.019677736
+107,36,5 all_e Romain,2/1/19,F,0.019832084
+108,68,3 bis rue Yohan,5/1/19,M,0.019986431
+109,36,6 ter avenue Paul,5/1/19,M,0.020140779
+110,68,5 rue Vincennes,6/1/19,M,0.020295126
+111,14,3 rue du Plessis,7/1/19,M,0.020449474
+112,71,19 avenue Clamart,8/1/19,F,0.020603822
+113,61,8 all_e France,9/1/19,F,0.020758169
+114,64,20 Faubourg Pierret,5/1/19,M,0.020912517
+115,44,21 avenue Clamart,5/1/19,F,0.021066865
+116,48,10 all_e France,5/1/19,F,0.021221212
+117,25,22 Faubourg Pierret,3/2/19,M,0.02137556
+118,39,7 all_e Romain,3/2/19,M,0.021529907
+119,71,5 bis rue Yohan,3/2/19,M,0.021684255
+120,39,7 all_e Romain,3/2/19,M,0.021838603
+121,71,5 bis rue Yohan,1/1/19,F,0.02199295
+122,17,8 ter avenue Paul,2/1/19,F,0.022147298
+123,74,8 rue Vincennes,3/1/19,M,0.022301646
+124,64,20 avenue Clamart,4/1/19,F,0.022455993
+125,67,9 all_e France,1/1/19,F,0.022610341
+126,47,21 Faubourg Pierret,2/1/19,M,0.022764688
+127,51,6 all_e Romain,5/1/19,F,0.022919036
+128,28,4 bis rue Yohan,5/1/19,F,0.023073384
+129,42,6 all_e Romain,6/1/19,M,0.023227731
+130,74,4 bis rue Yohan,7/1/19,M,0.023382079
+131,42,7 ter avenue Paul,8/1/19,F,0.023536426
+132,74,7 rue Vincennes,9/1/19,F,0.023690774
+133,20,5 rue du Plessis,5/1/19,M,0.023845122
+134,77,21 avenue Clamart,5/1/19,M,0.023999469
+135,67,10 all_e France,5/1/19,F,0.024153817
+136,70,5 all_e Romain,15/1/19,F,0.024308165
+137,50,3 bis rue Yohan,26/1/19,M,0.024462512
+138,54,6 ter avenue Paul,15/1/19,M,0.02461686
+139,31,5 rue Vincennes,26/1/19,M,0.024771207
+140,45,3 rue du Plessis,6/2/19,M,0.024925555
+141,77,20 avenue Clamart,17/2/19,F,0.025079903
+142,45,9 all_e France,28/2/19,F,0.02523425
+143,77,21 Faubourg Pierret,11/3/19,M,0.025388598
+144,23,6 all_e Romain,22/3/19,M,0.025542946
+145,80,4 bis rue Yohan,2/4/19,M,0.025697293
+146,70,6 all_e Romain,13/4/19,F,0.025851641
+147,73,4 bis rue Yohan,5/1/19,F,0.026005988
+148,53,7 ter avenue Paul,6/1/19,M,0.026160336
+149,57,7 rue Vincennes,7/1/19,M,0.026314684
+150,34,5 rue du Plessis,8/1/19,F,0.026469031
+151,48,21 avenue Clamart,9/1/19,F,0.026623379
+152,80,10 all_e France,5/1/19,M,0.026777726
+153,48,5 all_e Romain,5/1/19,M,0.026932074
+154,80,3 bis rue Yohan,5/1/19,M,0.027086422
+155,26,6 ter avenue Paul,15/1/19,F,0.027240769
+156,83,5 rue Vincennes,26/1/19,F,0.027395117
+157,73,3 rue du Plessis,5/1/19,M,0.027549465
+158,76,19 avenue Clamart,6/1/19,M,0.027703812
+159,56,8 all_e France,7/1/19,M,0.02785816
+160,60,20 Faubourg Pierret,8/1/19,M,0.028012507
+161,37,21 avenue Clamart,9/1/19,M,0.028166855
+162,51,10 all_e France,5/1/19,F,0.028321203
+163,83,22 Faubourg Pierret,5/1/19,F,0.02847555
+164,51,7 all_e Romain,5/1/19,F,0.028629898
+165,83,5 bis rue Yohan,15/1/19,F,0.028784246
+166,29,7 all_e Romain,26/1/19,F,0.028938593
+167,86,5 bis rue Yohan,15/1/19,M,0.029092941
+168,76,8 ter avenue Paul,26/1/19,M,0.029247288
+169,79,8 rue Vincennes,6/2/19,M,0.029401636
+170,59,20 avenue Clamart,17/2/19,M,0.029555984
