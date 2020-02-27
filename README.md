@@ -1,4 +1,4 @@
-# SurveyPulseView1 (Dashboard widgets Drafts)
+## SurveyPulseView1 (Dashboard widgets Drafts)
 
 #### Parallele coordinates plot 
 visualizing high-dimensional geometry and analyzing multivariate data for profile and survey data,
@@ -8,3 +8,6 @@ A point in *n-dimensional* space is represented as a polyline with vertices on t
 Used for *statistical considerations* and *cohort identification/selection*.
 
 ![alt text](https://raw.githubusercontent.com/antoinedme/SurveyPulseView1/master/PenScreenshot.png)
+
+#### Original credits
+Adapted from plotly Codepen
